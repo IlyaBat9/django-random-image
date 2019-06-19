@@ -1,7 +1,7 @@
-Django Random Image
+Django Random Image From Folder
 =================
 
-Django Random Image is a simple app to load a random image from a specified directory.
+Django Random Image From Folder is a simple app to load a random image from a specified directory.
 
 It's trivially simple but I've needed it a few times so I thought maybe others have too.
 
