@@ -8,7 +8,7 @@ It's trivially simple but I've needed it a few times so I thought maybe others h
 Installation
 ************
 
-Add 'random_image' to INSTALLED_APPS.
+Add 'random_image_from_folder' to INSTALLED_APPS.
 
 Settings
 ************
