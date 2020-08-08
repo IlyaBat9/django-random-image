@@ -17,4 +17,4 @@ def random_image():
 
     files = [f for f in os.listdir(rand_dir) if os.path.splitext(f)[1] in valid_extensions]
 
-    return "/static" + "/" + settings.RANDOM_IMAGE_DIR + "/" + random.choice(files)
+    return "/media" + "/" + settings.RANDOM_IMAGE_DIR + "/" + random.choice(files)
